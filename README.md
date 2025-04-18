@@ -128,5 +128,5 @@ We welcome your contributions and PRs.
 
 ## ☕ Sponsor
 
-1. [Follow Me on X(Twitter)](https://404.li/kai).
+1. [Follow Me on X(Twitter)](https://404.8void.sbs/x).
 2. [Become a sponsor to on GitHub](https://github.com/sponsors/ccbikai).
