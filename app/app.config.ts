@@ -1,13 +1,13 @@
 export default defineAppConfig({
   title: 'Sink',
-  email: 'sink.cool@miantiao.me',
-  github: 'https://github.com/ccbikai/sink',
-  twitter: 'https://sink.cool/kai',
-  telegram: 'https://sink.cool/telegram',
+  email: 'jp@8void.com',
+  github: 'https://github.com/Jv0id/sink',
+  twitter: 'https://404.8void.sbs/x',
+  telegram: 'https://404.8void.sbs/telegram',
   mastodon: 'https://sink.cool/mastodon',
-  blog: 'https://sink.cool/blog',
+  blog: 'https://404.8void.sbs/blog',
   description: 'A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.',
-  image: 'https://sink.cool/banner.png',
+  image: 'https://404.8void.sbs/banner.png',
   previewTTL: 300, // 5 minutes
   slugRegex: /^[a-z0-9]+(?:-[a-z0-9]+)*$/i,
   reserveSlug: [
